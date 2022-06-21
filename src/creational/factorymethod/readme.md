@@ -5,8 +5,8 @@
 어떤 객체를 생성해야 하지만, 어떤 객체를 생성할 지 알 수 없을 때
 
 # 구조
-![img.png](img.png)
+![img.png](image/img.png)
 
 # 예제
 카페
-![](factorymethod-example.svg)
+![](image/factorymethod-example.svg)
