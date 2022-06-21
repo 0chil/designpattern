@@ -28,7 +28,7 @@ to know and utilize design patterns better<br>
 ## List to cover
 - Creational Patterns
   - [x] [Factory Method](src/creational/factorymethod)
-  - [ ] Abstract Factory
+  - [x] [Abstract Factory](src/creational/abstractfactory)
   - [ ] Builder
   - [ ] Prototype
   - [ ] Singleton
