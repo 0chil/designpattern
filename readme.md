@@ -13,9 +13,14 @@ Typical solution to common problems arise during developing software.
   - e.g.You could use the word _Adapter_ for better communication on your design
   
 ## Based on
-the book: [`Design Patterns: Elements of Reusable Object-Oriented Software`](http://www.yes24.com/Product/Goods/200592)
+the book: [`Design Patterns: Elements of Reusable Object-Oriented Software`](http://www.yes24.com/Product/Goods/200592)<br>
+authored by: `Erich Gamma`, `John Vlissides`, `Ralph Johnson`, `Richard Helm`, well known as **GoF**<br>
+and the website: [Refactoring Guru](https://refactoring.guru/design-patterns)
 
-authored by: `Erich Gamma`, `John Vlissides`, `Ralph Johnson`, `Richard Helm`, well known as **GoF**
+## ...
+> If all you have is a hammer, everything looks like a nail.
+
+Let's not try to apply it everywhere. There are some cases simpler code would do just fine.
 
 ## Objective
 to know and utilize design patterns better<br>
