@@ -1,9 +1,13 @@
 # Design Pattern
 
+## Objective
+to know and utilize design patterns better  
+to know what best(at least not worst) practice is
+
 ## What design pattern is
 
-**Design pattern** is something that represents solution to problems which is common when developing software.<br>
-Typical solution to common problems arise during developing software.
+**Design pattern** is something that represents solution to problems which is common when developing software.  
+That is to say, Typical solution for common problems arise during developing software.
 
 ## Benefits
 - Knowing which trials-and-errors former developers had experienced
@@ -13,17 +17,14 @@ Typical solution to common problems arise during developing software.
   - e.g.You could use the word _Adapter_ for better communication on your design
   
 ## Based on
-the book: [`Design Patterns: Elements of Reusable Object-Oriented Software`](http://www.yes24.com/Product/Goods/200592)<br>
-authored by: `Erich Gamma`, `John Vlissides`, `Ralph Johnson`, `Richard Helm`, well known as **GoF**<br>
+the book: [`Design Patterns: Elements of Reusable Object-Oriented Software`](http://www.yes24.com/Product/Goods/200592)  
+authored by: `Erich Gamma`, `John Vlissides`, `Ralph Johnson`, `Richard Helm`, well known as **GoF**  
 and the website: [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 ## ...
 > If all you have is a hammer, everything looks like a nail.
 
 Let's not try to apply it everywhere. There are some cases simpler code would do just fine.
-
-## Objective
-to know and utilize design patterns better<br>
 
 ## List to cover
 - Creational Patterns
@@ -53,5 +54,5 @@ to know and utilize design patterns better<br>
   - [ ] Template Method
   - [ ] Visitor
 
-Contents can be varied, simplified or omitted.<br>
+Contents can be varied, simplified or omitted.  
 다루는 내용이 달라질 수 있고, 일부는 간략화되거나 생략될 수 있음.
