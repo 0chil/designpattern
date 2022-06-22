@@ -29,7 +29,7 @@ to know and utilize design patterns better<br>
 - Creational Patterns
   - [x] [Factory Method](src/creational/factorymethod)
   - [x] [Abstract Factory](src/creational/abstractfactory)
-  - [ ] Builder
+  - [x] [Builder](src/creational/builder)
   - [ ] Prototype
   - [ ] Singleton
 - Structural Patterns
