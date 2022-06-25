@@ -32,7 +32,7 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
   - [x] [Abstract Factory](src/creational/abstractfactory)
   - [x] [Builder](src/creational/builder)
   - [ ] Prototype
-  - [ ] Singleton
+  - [ ] [Singleton](src/creational/singleton)
 - Structural Patterns
   - [ ] Adapter
   - [ ] Bridge
