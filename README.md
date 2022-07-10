@@ -26,6 +26,34 @@ and the website: [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 Let's not try to apply it everywhere. There are some cases simpler code would do just fine.
 
+## 헤드 퍼스트 디자인 패턴(2021)
+- GoF 디자인 패턴
+  - [x] [전략 패턴](src/strategypattern)
+  - [ ] 옵저버 패턴
+  - [ ] 데코레이터 패턴
+  - [ ] 팩토리 패턴
+  - [ ] 싱글턴 패턴
+  - [ ] 커맨드 패턴
+  - [ ] 어댑터 패턴
+  - [ ] 퍼사드 패턴
+  - [ ] 템플릿 메소드 패턴
+  - [ ] 반복자 패턴
+  - [ ] 컴포지트 패턴
+  - [ ] 상태 패턴
+  - [ ] 프록시 패턴
+  - [ ] 복합 패턴(MVC)
+- 디자인 원칙
+  - [ ] 캡슐화 원칙
+  - [x] [인터페이스 우선 원칙](src/strategypattern)
+  - [x] [구성 우선 원칙](src/strategypattern)
+  - [ ] 느슨한 결합 원칙
+  - [x] [OCP](src/strategypattern)
+  - [ ] 의존성 뒤집기 원칙
+  - [ ] 최소 지식 원칙
+  - [ ] 할리우드 원칙
+  - [ ] 단일 역할 원칙
+
+
 ## List to cover
 - Creational Patterns
   - [x] [Factory Method](src/creational/factorymethod)
