@@ -29,8 +29,8 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
 ## 헤드 퍼스트 디자인 패턴(2021)
 - GoF 디자인 패턴
   - [x] [전략 패턴](src/strategypattern)
-  - [ ] 옵저버 패턴
-  - [ ] 데코레이터 패턴
+  - [x] [옵저버 패턴](src/observer)
+  - [x] [데코레이터 패턴](src/decorator)
   - [ ] 팩토리 패턴
   - [ ] 싱글턴 패턴
   - [ ] 커맨드 패턴
@@ -53,8 +53,7 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
   - [ ] 할리우드 원칙
   - [ ] 단일 역할 원칙
 
-
-## List to cover
+## ~~List to cover~~
 - Creational Patterns
   - [x] [Factory Method](src/creational/factorymethod)
   - [x] [Abstract Factory](src/creational/abstractfactory)
