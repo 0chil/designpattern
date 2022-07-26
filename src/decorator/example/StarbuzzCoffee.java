@@ -5,6 +5,7 @@ import decorator.example.beverage.DarkRoast;
 import decorator.example.beverage.Espresso;
 import decorator.example.beverage.HouseBlend;
 import decorator.example.decorator.Mocha;
+import decorator.example.decorator.NoConstructorDeco;
 import decorator.example.decorator.Soy;
 import decorator.example.decorator.Whip;
 
@@ -24,6 +25,7 @@ public class StarbuzzCoffee {
 		beverage3 = new Soy(beverage3);
 		beverage3 = new Mocha(beverage3);
 		beverage3 = new Whip(beverage3);
+		beverage3 = new NoConstructorDeco(beverage3);
 		System.out.println(beverage3.getDescription() + " $" + beverage3.cost());
 	}
 }

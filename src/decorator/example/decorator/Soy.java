@@ -5,7 +5,7 @@ import decorator.example.beverage.Beverage;
 public class Soy extends CondimentDecorator {
 
 	public Soy(Beverage beverage) {
-		this.beverage = beverage;
+		super(beverage);
 	}
 
 	@Override
