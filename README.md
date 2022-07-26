@@ -52,7 +52,9 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
   - [ ] 최소 지식 원칙
   - [ ] 할리우드 원칙
   - [ ] 단일 역할 원칙
-
+<details>
+  <summary>기존</summary>
+  
 ## ~~List to cover~~
 - Creational Patterns
   - [x] [Factory Method](src/creational/factorymethod)
@@ -80,6 +82,7 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
   - [ ] Strategy
   - [ ] Template Method
   - [ ] Visitor
+  </details>
 
 Contents can be varied, simplified or omitted.  
 다루는 내용이 달라질 수 있고, 일부는 간략화되거나 생략될 수 있음.
