@@ -13,7 +13,14 @@ public class NoConstructorDeco extends CondimentDecorator {
 
 	@Override
 	public double cost() {
-		return beverage.cost() + 99.99;
+		double cost = beverage.cost();
+		if (beverage.getSize() == Size.TALL)
+			cost += 0.99;
+		if (beverage.getSize() == Size.GRANDE)
+			cost += 0.999;
+		if (beverage.getSize() == Size.VENTI)
+			cost += 0.9999;
+		return cost;
 	}
 
 	@Override

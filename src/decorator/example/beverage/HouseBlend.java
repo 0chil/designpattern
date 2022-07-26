@@ -2,7 +2,8 @@ package decorator.example.beverage;
 
 public class HouseBlend extends Beverage {
 
-	public HouseBlend() {
+	public HouseBlend(Size size) {
+		super(size);
 		description = "하우스 블렌드 커피";
 	}
 

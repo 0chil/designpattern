@@ -2,7 +2,8 @@ package decorator.example.beverage;
 
 public class Espresso extends Beverage {
 
-	public Espresso() {
+	public Espresso(Size size) {
+		super(size);
 		description = "에스프레소";
 	}
 
