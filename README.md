@@ -30,7 +30,9 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
 - GoF 디자인 패턴
   - [x] [전략 패턴](src/strategypattern)
   - [x] [옵저버 패턴](src/observer)
-  - [x] [데코레이터 패턴](src/decorator)
+  - [x] [데코레이터 패턴](src/decorator)  
+  
+  여기서부터는 Notion + 코드로 작성. README에 노션 링크가 들어간다.
   - [ ] 팩토리 패턴
   - [ ] 싱글턴 패턴
   - [ ] 커맨드 패턴
