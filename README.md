@@ -47,7 +47,7 @@ Let's not try to apply it everywhere. There are some cases simpler code would do
 - 디자인 원칙
   - [ ] 캡슐화 원칙
   - [x] [인터페이스 우선 원칙](src/strategypattern)
-  - [x] [구성 우선 원칙](src/strategypattern)
+  - [x] [구성 우선 원칙(Composition)](src/strategypattern)
   - [ ] 느슨한 결합 원칙
   - [x] [OCP](src/strategypattern)
   - [ ] 의존성 뒤집기 원칙
